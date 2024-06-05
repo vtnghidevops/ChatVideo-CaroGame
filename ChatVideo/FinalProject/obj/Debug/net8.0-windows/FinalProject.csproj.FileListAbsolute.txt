@@ -1,0 +1,126 @@
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.exe
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.deps.json
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.runtimeconfig.json
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.dll
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.pdb
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.CallVideo.resources
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.GenerateResource.cache
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.AssemblyInfoInputs.cache
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.AssemblyInfo.cs
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.dll
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\refint\FinalProject.dll
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.pdb
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.genruntimeconfig.cache
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\ref\FinalProject.dll
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.Chat.resources
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.Join.resources
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.Properties.Resources.resources
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.AssemblyReference.cache
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\AForge.dll
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\AForge.Video.dll
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\AForge.Video.DirectShow.dll
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\NAudio.dll
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\NAudio.Asio.dll
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\NAudio.Core.dll
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\NAudio.Midi.dll
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalPro.8C09D514.Up2Date
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.exe
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.deps.json
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.runtimeconfig.json
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.dll
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.pdb
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\AForge.dll
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\AForge.Video.dll
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\AForge.Video.DirectShow.dll
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\NAudio.dll
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\NAudio.Asio.dll
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\NAudio.Core.dll
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\NAudio.Midi.dll
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.AssemblyReference.cache
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.CallVideo.resources
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.Chat.resources
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.Join.resources
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.Properties.Resources.resources
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.GenerateResource.cache
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.AssemblyInfoInputs.cache
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.AssemblyInfo.cs
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalPro.8C09D514.Up2Date
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.dll
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\refint\FinalProject.dll
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.pdb
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.genruntimeconfig.cache
+D:\WorkSpace\C#\Backup Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\ref\FinalProject.dll
+D:\WorkSpace\C#\Final\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.sourcelink.json
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\bin\Debug\net8.0-windows\FinalProject.exe
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\bin\Debug\net8.0-windows\FinalProject.deps.json
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\bin\Debug\net8.0-windows\FinalProject.runtimeconfig.json
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\bin\Debug\net8.0-windows\FinalProject.dll
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\bin\Debug\net8.0-windows\FinalProject.pdb
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\bin\Debug\net8.0-windows\AForge.dll
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\bin\Debug\net8.0-windows\AForge.Video.dll
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\bin\Debug\net8.0-windows\AForge.Video.DirectShow.dll
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.AssemblyReference.cache
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\obj\Debug\net8.0-windows\FinalProject.CallVideo.resources
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\obj\Debug\net8.0-windows\FinalProject.Chat.resources
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\obj\Debug\net8.0-windows\FinalProject.Join.resources
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\obj\Debug\net8.0-windows\FinalProject.Properties.Resources.resources
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.GenerateResource.cache
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\obj\Debug\net8.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\obj\Debug\net8.0-windows\FinalProject.AssemblyInfoInputs.cache
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\obj\Debug\net8.0-windows\FinalProject.AssemblyInfo.cs
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\obj\Debug\net8.0-windows\FinalPro.8C09D514.Up2Date
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\obj\Debug\net8.0-windows\FinalProject.dll
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\obj\Debug\net8.0-windows\refint\FinalProject.dll
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\obj\Debug\net8.0-windows\FinalProject.pdb
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\obj\Debug\net8.0-windows\FinalProject.genruntimeconfig.cache
+C:\Users\22520\Downloads\ChatVideo-master\FinalProject\obj\Debug\net8.0-windows\ref\FinalProject.dll
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\bin\Debug\net8.0-windows\FinalProject.exe
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\bin\Debug\net8.0-windows\FinalProject.deps.json
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\bin\Debug\net8.0-windows\FinalProject.runtimeconfig.json
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\bin\Debug\net8.0-windows\FinalProject.dll
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\bin\Debug\net8.0-windows\FinalProject.pdb
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\bin\Debug\net8.0-windows\AForge.dll
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\bin\Debug\net8.0-windows\AForge.Video.dll
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\bin\Debug\net8.0-windows\AForge.Video.DirectShow.dll
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\bin\Debug\net8.0-windows\NAudio.dll
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\bin\Debug\net8.0-windows\NAudio.Asio.dll
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\bin\Debug\net8.0-windows\NAudio.Core.dll
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\bin\Debug\net8.0-windows\NAudio.Midi.dll
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.AssemblyReference.cache
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\obj\Debug\net8.0-windows\FinalProject.CallVideo.resources
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\obj\Debug\net8.0-windows\FinalProject.Chat.resources
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\obj\Debug\net8.0-windows\FinalProject.Join.resources
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\obj\Debug\net8.0-windows\FinalProject.Properties.Resources.resources
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.GenerateResource.cache
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\obj\Debug\net8.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\obj\Debug\net8.0-windows\FinalProject.AssemblyInfoInputs.cache
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\obj\Debug\net8.0-windows\FinalProject.AssemblyInfo.cs
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\obj\Debug\net8.0-windows\FinalProject.sourcelink.json
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\obj\Debug\net8.0-windows\FinalPro.8C09D514.Up2Date
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\obj\Debug\net8.0-windows\FinalProject.dll
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\obj\Debug\net8.0-windows\refint\FinalProject.dll
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\obj\Debug\net8.0-windows\FinalProject.pdb
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\obj\Debug\net8.0-windows\FinalProject.genruntimeconfig.cache
+D:\WorkSpace\C#\Final\ChatVideo\FinalProject\obj\Debug\net8.0-windows\ref\FinalProject.dll
