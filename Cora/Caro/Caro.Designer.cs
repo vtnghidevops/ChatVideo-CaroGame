@@ -58,52 +58,50 @@
             // pnlChessBoard
             // 
             pnlChessBoard.BackColor = SystemColors.Control;
-            pnlChessBoard.Location = new Point(14, 37);
-            pnlChessBoard.Margin = new Padding(3, 4, 3, 4);
+            pnlChessBoard.Location = new Point(12, 28);
             pnlChessBoard.Name = "pnlChessBoard";
-            pnlChessBoard.Size = new Size(635, 635);
+            pnlChessBoard.Size = new Size(620, 620);
             pnlChessBoard.TabIndex = 0;
             // 
             // panel2
             // 
+            panel2.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             panel2.Controls.Add(label4);
             panel2.Controls.Add(label2);
             panel2.Controls.Add(btnLAN);
             panel2.Controls.Add(txbPlayerName);
             panel2.Controls.Add(txbIP);
-            panel2.Location = new Point(684, 84);
-            panel2.Margin = new Padding(3, 4, 3, 4);
+            panel2.Location = new Point(640, 63);
             panel2.Name = "panel2";
-            panel2.Size = new Size(309, 272);
+            panel2.Size = new Size(270, 204);
             panel2.TabIndex = 1;
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Font = new Font("SF Mono", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label4.Location = new Point(49, 23);
+            label4.Font = new Font("Microsoft Sans Serif", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label4.Location = new Point(43, 17);
             label4.Name = "label4";
-            label4.Size = new Size(163, 20);
+            label4.Size = new Size(125, 17);
             label4.TabIndex = 9;
             label4.Text = "Turn/Your name";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Font = new Font("SF Mono", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label2.Location = new Point(49, 121);
+            label2.Font = new Font("Microsoft Sans Serif", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label2.Location = new Point(43, 91);
             label2.Name = "label2";
-            label2.Size = new Size(174, 20);
+            label2.Size = new Size(118, 17);
             label2.TabIndex = 6;
             label2.Text = "Your IP/IP Host";
             // 
             // btnLAN
             // 
-            btnLAN.Font = new Font("SF Mono", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnLAN.Location = new Point(52, 210);
-            btnLAN.Margin = new Padding(3, 4, 3, 4);
+            btnLAN.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnLAN.Location = new Point(46, 158);
             btnLAN.Name = "btnLAN";
-            btnLAN.Size = new Size(202, 46);
+            btnLAN.Size = new Size(177, 34);
             btnLAN.TabIndex = 3;
             btnLAN.Text = "Connect";
             btnLAN.UseVisualStyleBackColor = true;
@@ -111,40 +109,39 @@
             // 
             // txbPlayerName
             // 
-            txbPlayerName.Font = new Font("SF Mono", 12F);
-            txbPlayerName.Location = new Point(49, 59);
-            txbPlayerName.Margin = new Padding(3, 4, 3, 4);
+            txbPlayerName.Font = new Font("Microsoft Sans Serif", 12F);
+            txbPlayerName.Location = new Point(43, 44);
             txbPlayerName.Name = "txbPlayerName";
-            txbPlayerName.Size = new Size(202, 31);
+            txbPlayerName.Size = new Size(177, 26);
             txbPlayerName.TabIndex = 0;
             // 
             // txbIP
             // 
-            txbIP.Font = new Font("SF Mono", 12F);
-            txbIP.Location = new Point(52, 161);
-            txbIP.Margin = new Padding(3, 4, 3, 4);
+            txbIP.Font = new Font("Microsoft Sans Serif", 12F);
+            txbIP.Location = new Point(46, 121);
             txbIP.Name = "txbIP";
-            txbIP.Size = new Size(202, 31);
+            txbIP.Size = new Size(177, 26);
             txbIP.TabIndex = 2;
             // 
             // panel3
             // 
+            panel3.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             panel3.Controls.Add(pictureBox1);
             panel3.Controls.Add(label3);
             panel3.Controls.Add(pctbMark);
             panel3.Controls.Add(prcbCoolDown);
-            panel3.Location = new Point(684, 377);
-            panel3.Margin = new Padding(3, 4, 3, 4);
+            panel3.Location = new Point(640, 283);
             panel3.Name = "panel3";
-            panel3.Size = new Size(309, 267);
+            panel3.Size = new Size(270, 200);
             panel3.TabIndex = 2;
             // 
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(23, 17);
+            pictureBox1.Location = new Point(20, 13);
+            pictureBox1.Margin = new Padding(3, 2, 3, 2);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(149, 125);
+            pictureBox1.Size = new Size(130, 94);
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
@@ -152,10 +149,10 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Font = new Font("SF Mono", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label3.Location = new Point(23, 175);
+            label3.Font = new Font("Microsoft Sans Serif", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label3.Location = new Point(20, 131);
             label3.Name = "label3";
-            label3.Size = new Size(119, 20);
+            label3.Size = new Size(85, 17);
             label3.TabIndex = 7;
             label3.Text = "Count time";
             // 
@@ -163,20 +160,19 @@
             // 
             pctbMark.BackColor = SystemColors.Control;
             pctbMark.BackgroundImageLayout = ImageLayout.Stretch;
-            pctbMark.Location = new Point(230, 95);
-            pctbMark.Margin = new Padding(3, 4, 3, 4);
+            pctbMark.Location = new Point(173, 57);
             pctbMark.Name = "pctbMark";
-            pctbMark.Size = new Size(52, 47);
+            pctbMark.Size = new Size(50, 50);
             pctbMark.SizeMode = PictureBoxSizeMode.StretchImage;
             pctbMark.TabIndex = 4;
             pctbMark.TabStop = false;
+            pctbMark.Click += pctbMark_Click;
             // 
             // prcbCoolDown
             // 
-            prcbCoolDown.Location = new Point(23, 215);
-            prcbCoolDown.Margin = new Padding(3, 4, 3, 4);
+            prcbCoolDown.Location = new Point(20, 161);
             prcbCoolDown.Name = "prcbCoolDown";
-            prcbCoolDown.Size = new Size(250, 31);
+            prcbCoolDown.Size = new Size(219, 23);
             prcbCoolDown.TabIndex = 1;
             // 
             // tmCoolDown
@@ -189,8 +185,7 @@
             menuStrip1.Items.AddRange(new ToolStripItem[] { menuToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Padding = new Padding(7, 3, 0, 3);
-            menuStrip1.Size = new Size(1058, 30);
+            menuStrip1.Size = new Size(934, 24);
             menuStrip1.TabIndex = 3;
             menuStrip1.Text = "menuStrip1";
             // 
@@ -198,14 +193,14 @@
             // 
             menuToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { newGameToolStripMenuItem, undoToolStripMenuItem, quitToolStripMenuItem });
             menuToolStripMenuItem.Name = "menuToolStripMenuItem";
-            menuToolStripMenuItem.Size = new Size(60, 24);
+            menuToolStripMenuItem.Size = new Size(50, 20);
             menuToolStripMenuItem.Text = "Menu";
             // 
             // newGameToolStripMenuItem
             // 
             newGameToolStripMenuItem.Name = "newGameToolStripMenuItem";
             newGameToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.N;
-            newGameToolStripMenuItem.Size = new Size(217, 26);
+            newGameToolStripMenuItem.Size = new Size(174, 22);
             newGameToolStripMenuItem.Text = "New game";
             newGameToolStripMenuItem.Click += newGameToolStripMenuItem_Click;
             // 
@@ -213,7 +208,7 @@
             // 
             undoToolStripMenuItem.Name = "undoToolStripMenuItem";
             undoToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.Z;
-            undoToolStripMenuItem.Size = new Size(217, 26);
+            undoToolStripMenuItem.Size = new Size(174, 22);
             undoToolStripMenuItem.Text = "Undo";
             undoToolStripMenuItem.Click += undoToolStripMenuItem_Click;
             // 
@@ -221,25 +216,25 @@
             // 
             quitToolStripMenuItem.Name = "quitToolStripMenuItem";
             quitToolStripMenuItem.ShortcutKeys = Keys.Alt | Keys.F4;
-            quitToolStripMenuItem.Size = new Size(217, 26);
+            quitToolStripMenuItem.Size = new Size(174, 22);
             quitToolStripMenuItem.Text = "Quit";
             quitToolStripMenuItem.Click += quitToolStripMenuItem_Click;
             // 
             // Caro
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1058, 696);
+            ClientSize = new Size(934, 658);
             Controls.Add(panel3);
             Controls.Add(panel2);
             Controls.Add(pnlChessBoard);
             Controls.Add(menuStrip1);
             Icon = (Icon)resources.GetObject("$this.Icon");
             MainMenuStrip = menuStrip1;
-            Margin = new Padding(3, 4, 3, 4);
             Name = "Caro";
             Text = "Game Caro";
             FormClosing += Form1_FormClosing;
+            Load += Caro_Load;
             Shown += Form1_Shown;
             panel2.ResumeLayout(false);
             panel2.PerformLayout();

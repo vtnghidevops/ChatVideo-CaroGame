@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Caro
-build_property.ProjectDir = D:\WorkSpace\C#\Final\Cora\Caro\
+build_property.ProjectDir = C:\Users\Administrator\Downloads\Final\Cora\Caro\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

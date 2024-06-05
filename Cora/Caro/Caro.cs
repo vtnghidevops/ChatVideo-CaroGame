@@ -20,7 +20,7 @@ namespace Caro
             ChessBoard = new ChessBoardManager(pnlChessBoard, txbPlayerName, pctbMark);
             ChessBoard.EndedGame += ChessBoard_EndedGame;
             ChessBoard.PlayerMarked += ChessBoard_PlayerMarked;
-                
+
             prcbCoolDown.Step = Cons.COOL_DOWN_STEP;
             prcbCoolDown.Maximum = Cons.COOL_DOWN_TIME;
             prcbCoolDown.Value = 0;
@@ -66,7 +66,7 @@ namespace Caro
             pnlChessBoard.Enabled = false;
             prcbCoolDown.Value = 0;
 
-            socket.Send(new SocketData((int)SocketCommand.SEND_POINT,"",e.ClickedPoint));
+            socket.Send(new SocketData((int)SocketCommand.SEND_POINT, "", e.ClickedPoint));
 
             undoToolStripMenuItem.Enabled = false;
 
@@ -122,9 +122,9 @@ namespace Caro
                 {
                     socket.Send(new SocketData((int)SocketCommand.QUIT, "", new Point()));
                 }
-                catch 
-                { 
-                
+                catch
+                {
+
                 }
             }
         }
@@ -156,7 +156,7 @@ namespace Caro
         {
             txbIP.Text = socket.GetLocalIPv4(NetworkInterfaceType.Wireless80211);
 
-            if (string.IsNullOrEmpty(txbIP.Text) )
+            if (string.IsNullOrEmpty(txbIP.Text))
             {
                 txbIP.Text = socket.GetLocalIPv4(NetworkInterfaceType.Ethernet);
             }
@@ -175,25 +175,27 @@ namespace Caro
             });
             listenThread.IsBackground = true;
             listenThread.Start();
-           
+
 
         }
 
         private void ProcessData(SocketData data)
         {
-            switch(data.Command) 
+            switch (data.Command)
             {
                 case (int)SocketCommand.NOTIFY:
                     MessageBox.Show(data.Message);
                     break;
                 case (int)SocketCommand.NEW_GAME:
-                    this.Invoke((MethodInvoker)(() => {
+                    this.Invoke((MethodInvoker)(() =>
+                    {
                         NewGame();
                         pnlChessBoard.Enabled = false;
                     }));
                     break;
                 case (int)SocketCommand.SEND_POINT:
-                    this.Invoke((MethodInvoker)(() => { 
+                    this.Invoke((MethodInvoker)(() =>
+                    {
                         prcbCoolDown.Value = 0;
                         pnlChessBoard.Enabled = true;
                         tmCoolDown.Start();
@@ -202,8 +204,8 @@ namespace Caro
                     }));
                     break;
                 case (int)SocketCommand.UNDO:
-                        Undo();
-                        prcbCoolDown.Value = 0;
+                    Undo();
+                    prcbCoolDown.Value = 0;
                     break;
                 case (int)SocketCommand.END_GAME:
                     MessageBox.Show("Game Over. What a great battle!!!");
@@ -222,6 +224,16 @@ namespace Caro
                     break;
             }
             Listen();
+        }
+
+        private void Caro_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pctbMark_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

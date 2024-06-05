@@ -51,7 +51,7 @@
             ptb_mainCall.Image = (Image)resources.GetObject("ptb_mainCall.Image");
             ptb_mainCall.Location = new Point(1, 35);
             ptb_mainCall.Name = "ptb_mainCall";
-            ptb_mainCall.Size = new Size(445, 719);
+            ptb_mainCall.Size = new Size(745, 719);
             ptb_mainCall.SizeMode = PictureBoxSizeMode.CenterImage;
             ptb_mainCall.TabIndex = 0;
             ptb_mainCall.TabStop = false;
@@ -60,9 +60,9 @@
             // ptb_otherCall
             // 
             ptb_otherCall.Image = (Image)resources.GetObject("ptb_otherCall.Image");
-            ptb_otherCall.Location = new Point(285, 67);
+            ptb_otherCall.Location = new Point(552, 53);
             ptb_otherCall.Name = "ptb_otherCall";
-            ptb_otherCall.Size = new Size(139, 172);
+            ptb_otherCall.Size = new Size(164, 134);
             ptb_otherCall.SizeMode = PictureBoxSizeMode.Zoom;
             ptb_otherCall.TabIndex = 1;
             ptb_otherCall.TabStop = false;
@@ -72,7 +72,7 @@
             ptb_interurpt.BackColor = Color.Transparent;
             ptb_interurpt.Cursor = Cursors.Hand;
             ptb_interurpt.Image = (Image)resources.GetObject("ptb_interurpt.Image");
-            ptb_interurpt.Location = new Point(456, 592);
+            ptb_interurpt.Location = new Point(773, 605);
             ptb_interurpt.Name = "ptb_interurpt";
             ptb_interurpt.Size = new Size(75, 54);
             ptb_interurpt.SizeMode = PictureBoxSizeMode.Zoom;
@@ -85,7 +85,7 @@
             ptb_controlMic.BackColor = Color.Transparent;
             ptb_controlMic.Cursor = Cursors.Hand;
             ptb_controlMic.Image = (Image)resources.GetObject("ptb_controlMic.Image");
-            ptb_controlMic.Location = new Point(456, 509);
+            ptb_controlMic.Location = new Point(773, 522);
             ptb_controlMic.Name = "ptb_controlMic";
             ptb_controlMic.Size = new Size(75, 54);
             ptb_controlMic.SizeMode = PictureBoxSizeMode.Zoom;
@@ -98,7 +98,7 @@
             ptb_controlCam.BackColor = Color.Transparent;
             ptb_controlCam.Cursor = Cursors.Hand;
             ptb_controlCam.Image = (Image)resources.GetObject("ptb_controlCam.Image");
-            ptb_controlCam.Location = new Point(456, 673);
+            ptb_controlCam.Location = new Point(773, 686);
             ptb_controlCam.Name = "ptb_controlCam";
             ptb_controlCam.Size = new Size(75, 54);
             ptb_controlCam.SizeMode = PictureBoxSizeMode.Zoom;
@@ -112,16 +112,16 @@
             menuStrip1.Items.AddRange(new ToolStripItem[] { chọnCameraToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(543, 28);
+            menuStrip1.Size = new Size(872, 28);
             menuStrip1.TabIndex = 26;
             menuStrip1.Text = "menuStrip1";
             // 
             // chọnCameraToolStripMenuItem
             // 
             chọnCameraToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { cb_optionCam });
-            chọnCameraToolStripMenuItem.Font = new Font("SF Mono", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            chọnCameraToolStripMenuItem.Font = new Font("Microsoft Sans Serif", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             chọnCameraToolStripMenuItem.Name = "chọnCameraToolStripMenuItem";
-            chọnCameraToolStripMenuItem.Size = new Size(144, 24);
+            chọnCameraToolStripMenuItem.Size = new Size(126, 24);
             chọnCameraToolStripMenuItem.Text = "Chọn Camera";
             // 
             // cb_optionCam
@@ -136,7 +136,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(543, 752);
+            ClientSize = new Size(872, 752);
             Controls.Add(ptb_controlCam);
             Controls.Add(ptb_controlMic);
             Controls.Add(ptb_interurpt);

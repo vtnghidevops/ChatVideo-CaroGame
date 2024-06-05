@@ -231,8 +231,8 @@ namespace FinalProject
         private void Cam_NewFrame(object sender, NewFrameEventArgs eventArgs)
         {
             Bitmap bitmap = (Bitmap)eventArgs.Frame.Clone();
-            Bitmap dataFramePicServer = new Bitmap(bitmap, new Size(139, 172));
-            Bitmap dataFramePicClient = new Bitmap(bitmap, new Size(500, 800));
+            Bitmap dataFramePicServer = new Bitmap(bitmap, new Size(250, 200));
+            Bitmap dataFramePicClient = new Bitmap(bitmap, new Size(750, 800));
 
             ptb_mainCall.Image = dataFramePicClient;
             byte[] byteArray = ConvertToJpeg(dataFramePicServer);
