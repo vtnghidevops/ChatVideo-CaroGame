@@ -1,0 +1,68 @@
+C:\Users\Administrator\Desktop\Cora\Caro\bin\Debug\net8.0-windows\Caro.exe
+C:\Users\Administrator\Desktop\Cora\Caro\bin\Debug\net8.0-windows\Caro.deps.json
+C:\Users\Administrator\Desktop\Cora\Caro\bin\Debug\net8.0-windows\Caro.runtimeconfig.json
+C:\Users\Administrator\Desktop\Cora\Caro\bin\Debug\net8.0-windows\Caro.dll
+C:\Users\Administrator\Desktop\Cora\Caro\bin\Debug\net8.0-windows\Caro.pdb
+C:\Users\Administrator\Desktop\Cora\Caro\obj\Debug\net8.0-windows\Caro.Form1.resources
+C:\Users\Administrator\Desktop\Cora\Caro\obj\Debug\net8.0-windows\Caro.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Cora\Caro\obj\Debug\net8.0-windows\Caro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Cora\Caro\obj\Debug\net8.0-windows\Caro.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Cora\Caro\obj\Debug\net8.0-windows\Caro.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Cora\Caro\obj\Debug\net8.0-windows\Caro.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Cora\Caro\obj\Debug\net8.0-windows\Caro.dll
+C:\Users\Administrator\Desktop\Cora\Caro\obj\Debug\net8.0-windows\refint\Caro.dll
+C:\Users\Administrator\Desktop\Cora\Caro\obj\Debug\net8.0-windows\Caro.pdb
+C:\Users\Administrator\Desktop\Cora\Caro\obj\Debug\net8.0-windows\Caro.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Cora\Caro\obj\Debug\net8.0-windows\ref\Caro.dll
+C:\Users\Administrator\Desktop\Cora\Caro\obj\Debug\net8.0-windows\Caro.Properties.Resources.resources
+C:\Users\Admin\Downloads\Cora\Caro\bin\Debug\net8.0-windows\Caro.exe
+C:\Users\Admin\Downloads\Cora\Caro\bin\Debug\net8.0-windows\Caro.deps.json
+C:\Users\Admin\Downloads\Cora\Caro\bin\Debug\net8.0-windows\Caro.runtimeconfig.json
+C:\Users\Admin\Downloads\Cora\Caro\bin\Debug\net8.0-windows\Caro.dll
+C:\Users\Admin\Downloads\Cora\Caro\bin\Debug\net8.0-windows\Caro.pdb
+C:\Users\Admin\Downloads\Cora\Caro\obj\Debug\net8.0-windows\Caro.Form1.resources
+C:\Users\Admin\Downloads\Cora\Caro\obj\Debug\net8.0-windows\Caro.Properties.Resources.resources
+C:\Users\Admin\Downloads\Cora\Caro\obj\Debug\net8.0-windows\Caro.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Cora\Caro\obj\Debug\net8.0-windows\Caro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Cora\Caro\obj\Debug\net8.0-windows\Caro.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Cora\Caro\obj\Debug\net8.0-windows\Caro.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Cora\Caro\obj\Debug\net8.0-windows\Caro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Cora\Caro\obj\Debug\net8.0-windows\Caro.dll
+C:\Users\Admin\Downloads\Cora\Caro\obj\Debug\net8.0-windows\refint\Caro.dll
+C:\Users\Admin\Downloads\Cora\Caro\obj\Debug\net8.0-windows\Caro.pdb
+C:\Users\Admin\Downloads\Cora\Caro\obj\Debug\net8.0-windows\Caro.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Cora\Caro\obj\Debug\net8.0-windows\ref\Caro.dll
+C:\Users\Administrator\Desktop\Download Cora\Cora\Caro\bin\Debug\net8.0-windows\Caro.exe
+C:\Users\Administrator\Desktop\Download Cora\Cora\Caro\bin\Debug\net8.0-windows\Caro.deps.json
+C:\Users\Administrator\Desktop\Download Cora\Cora\Caro\bin\Debug\net8.0-windows\Caro.runtimeconfig.json
+C:\Users\Administrator\Desktop\Download Cora\Cora\Caro\bin\Debug\net8.0-windows\Caro.dll
+C:\Users\Administrator\Desktop\Download Cora\Cora\Caro\bin\Debug\net8.0-windows\Caro.pdb
+C:\Users\Administrator\Desktop\Download Cora\Cora\Caro\obj\Debug\net8.0-windows\Caro.Form1.resources
+C:\Users\Administrator\Desktop\Download Cora\Cora\Caro\obj\Debug\net8.0-windows\Caro.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Download Cora\Cora\Caro\obj\Debug\net8.0-windows\Caro.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Download Cora\Cora\Caro\obj\Debug\net8.0-windows\Caro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Download Cora\Cora\Caro\obj\Debug\net8.0-windows\Caro.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Download Cora\Cora\Caro\obj\Debug\net8.0-windows\Caro.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Download Cora\Cora\Caro\obj\Debug\net8.0-windows\Caro.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Download Cora\Cora\Caro\obj\Debug\net8.0-windows\Caro.dll
+C:\Users\Administrator\Desktop\Download Cora\Cora\Caro\obj\Debug\net8.0-windows\refint\Caro.dll
+C:\Users\Administrator\Desktop\Download Cora\Cora\Caro\obj\Debug\net8.0-windows\Caro.pdb
+C:\Users\Administrator\Desktop\Download Cora\Cora\Caro\obj\Debug\net8.0-windows\Caro.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Download Cora\Cora\Caro\obj\Debug\net8.0-windows\ref\Caro.dll
+D:\WorkSpace\C#\Final\Cora\Caro\bin\Debug\net8.0-windows\Caro.exe
+D:\WorkSpace\C#\Final\Cora\Caro\bin\Debug\net8.0-windows\Caro.deps.json
+D:\WorkSpace\C#\Final\Cora\Caro\bin\Debug\net8.0-windows\Caro.runtimeconfig.json
+D:\WorkSpace\C#\Final\Cora\Caro\bin\Debug\net8.0-windows\Caro.dll
+D:\WorkSpace\C#\Final\Cora\Caro\bin\Debug\net8.0-windows\Caro.pdb
+D:\WorkSpace\C#\Final\Cora\Caro\obj\Debug\net8.0-windows\Caro.Caro.resources
+D:\WorkSpace\C#\Final\Cora\Caro\obj\Debug\net8.0-windows\Caro.Properties.Resources.resources
+D:\WorkSpace\C#\Final\Cora\Caro\obj\Debug\net8.0-windows\Caro.csproj.GenerateResource.cache
+D:\WorkSpace\C#\Final\Cora\Caro\obj\Debug\net8.0-windows\Caro.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C#\Final\Cora\Caro\obj\Debug\net8.0-windows\Caro.AssemblyInfoInputs.cache
+D:\WorkSpace\C#\Final\Cora\Caro\obj\Debug\net8.0-windows\Caro.AssemblyInfo.cs
+D:\WorkSpace\C#\Final\Cora\Caro\obj\Debug\net8.0-windows\Caro.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\Final\Cora\Caro\obj\Debug\net8.0-windows\Caro.dll
+D:\WorkSpace\C#\Final\Cora\Caro\obj\Debug\net8.0-windows\refint\Caro.dll
+D:\WorkSpace\C#\Final\Cora\Caro\obj\Debug\net8.0-windows\Caro.pdb
+D:\WorkSpace\C#\Final\Cora\Caro\obj\Debug\net8.0-windows\Caro.genruntimeconfig.cache
+D:\WorkSpace\C#\Final\Cora\Caro\obj\Debug\net8.0-windows\ref\Caro.dll
