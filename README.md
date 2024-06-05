@@ -2,6 +2,7 @@
 
 ## How to install 
 **1.** Create a folder for the project, then open `git bash` in the current directory. If you don't have git bash, you can download it [here](https://git-scm.com/downloads).
+
 **2.** In `git bash`, enter the following command: 
 ```
   git clone https://github.com/vtnghidevops/ChatVideo-CaroGame.git
