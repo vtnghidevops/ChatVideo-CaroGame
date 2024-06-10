@@ -71,8 +71,8 @@ namespace FinalProject
                         Socket clientSocketTCP = ServerListener.Accept();
 
                         // Set receive and send timeouts
-                        clientSocketTCP.ReceiveTimeout = 60000; // 60 seconds
-                        clientSocketTCP.SendTimeout = 60000; // 60 seconds
+                        clientSocketTCP.ReceiveTimeout = 600000; // 10p
+                        clientSocketTCP.SendTimeout = 600000; 
 
                         // Nhận một thông điệp xác nhận từ client
                         byte[] buffer = new byte[1024];
@@ -199,13 +199,7 @@ namespace FinalProject
             MessageReceived?.Invoke(this, e);
         }
 
-        //public void waitingUserConnect()
-        //{
-        //    if (CheckWaitConnect)
-        //    {
-        //        MessageBox.Show("A client has connected.", "Server Status", MessageBoxButtons.OK, MessageBoxIcon.Information);
-        //    }
-        //}
+      
 
        
     }

@@ -83,3 +83,4 @@ C:\Users\Administrator\Downloads\Final\Cora\Caro\obj\Debug\net8.0-windows\refint
 C:\Users\Administrator\Downloads\Final\Cora\Caro\obj\Debug\net8.0-windows\Caro.pdb
 C:\Users\Administrator\Downloads\Final\Cora\Caro\obj\Debug\net8.0-windows\Caro.genruntimeconfig.cache
 C:\Users\Administrator\Downloads\Final\Cora\Caro\obj\Debug\net8.0-windows\ref\Caro.dll
+D:\WorkSpace\C#\Final\Cora\Caro\obj\Debug\net8.0-windows\Caro.sourcelink.json

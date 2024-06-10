@@ -77,9 +77,9 @@
             lb_checkConnectUser.Font = new Font("SF Mono", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lb_checkConnectUser.Location = new Point(100, 49);
             lb_checkConnectUser.Name = "lb_checkConnectUser";
-            lb_checkConnectUser.Size = new Size(163, 20);
+            lb_checkConnectUser.Size = new Size(119, 20);
             lb_checkConnectUser.TabIndex = 4;
-            lb_checkConnectUser.Text = "Đang hoạt động";
+            lb_checkConnectUser.Text = "Đã kết nối";
             // 
             // lb_username
             // 

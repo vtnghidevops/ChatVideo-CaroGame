@@ -116,7 +116,7 @@ namespace FinalProject
             // Chuyển đổi về luồng giao diện người dùng
             this.Invoke(new Action(() =>
             {
-                lb_checkConnectUser.Text = "Đang hoạt động";
+                lb_checkConnectUser.Text = "Đã kết nối";
                 MessageBox.Show("A client has connected.", "Server Status", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }));
         }

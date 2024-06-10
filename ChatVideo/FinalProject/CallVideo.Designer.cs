@@ -29,52 +29,52 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CallVideo));
-            ptb_mainCall = new PictureBox();
             ptb_otherCall = new PictureBox();
+            ptb_mainCall = new PictureBox();
             ptb_interurpt = new PictureBox();
             ptb_controlMic = new PictureBox();
             ptb_controlCam = new PictureBox();
             menuStrip1 = new MenuStrip();
             chọnCameraToolStripMenuItem = new ToolStripMenuItem();
             cb_optionCam = new ToolStripComboBox();
-            ((System.ComponentModel.ISupportInitialize)ptb_mainCall).BeginInit();
             ((System.ComponentModel.ISupportInitialize)ptb_otherCall).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)ptb_mainCall).BeginInit();
             ((System.ComponentModel.ISupportInitialize)ptb_interurpt).BeginInit();
             ((System.ComponentModel.ISupportInitialize)ptb_controlMic).BeginInit();
             ((System.ComponentModel.ISupportInitialize)ptb_controlCam).BeginInit();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
-            // ptb_mainCall
-            // 
-            ptb_mainCall.Cursor = Cursors.Hand;
-            ptb_mainCall.Image = (Image)resources.GetObject("ptb_mainCall.Image");
-            ptb_mainCall.Location = new Point(1, 35);
-            ptb_mainCall.MinimumSize = new Size(445, 719);
-            ptb_mainCall.Name = "ptb_mainCall";
-            ptb_mainCall.Size = new Size(520, 719);
-            ptb_mainCall.SizeMode = PictureBoxSizeMode.CenterImage;
-            ptb_mainCall.TabIndex = 0;
-            ptb_mainCall.TabStop = false;
-            ptb_mainCall.Click += ptb_mainCall_Click;
-            // 
             // ptb_otherCall
             // 
+            ptb_otherCall.Cursor = Cursors.Hand;
             ptb_otherCall.Image = (Image)resources.GetObject("ptb_otherCall.Image");
-            ptb_otherCall.Location = new Point(309, 58);
-            ptb_otherCall.MinimumSize = new Size(139, 172);
+            ptb_otherCall.Location = new Point(1, 35);
+            ptb_otherCall.MinimumSize = new Size(445, 719);
             ptb_otherCall.Name = "ptb_otherCall";
-            ptb_otherCall.Size = new Size(195, 172);
-            ptb_otherCall.SizeMode = PictureBoxSizeMode.Zoom;
-            ptb_otherCall.TabIndex = 1;
+            ptb_otherCall.Size = new Size(901, 719);
+            ptb_otherCall.SizeMode = PictureBoxSizeMode.CenterImage;
+            ptb_otherCall.TabIndex = 0;
             ptb_otherCall.TabStop = false;
+            ptb_otherCall.Click += ptb_mainCall_Click;
+            // 
+            // ptb_mainCall
+            // 
+            ptb_mainCall.Image = (Image)resources.GetObject("ptb_mainCall.Image");
+            ptb_mainCall.Location = new Point(656, 56);
+            ptb_mainCall.MinimumSize = new Size(139, 172);
+            ptb_mainCall.Name = "ptb_mainCall";
+            ptb_mainCall.Size = new Size(224, 172);
+            ptb_mainCall.SizeMode = PictureBoxSizeMode.Zoom;
+            ptb_mainCall.TabIndex = 1;
+            ptb_mainCall.TabStop = false;
             // 
             // ptb_interurpt
             // 
             ptb_interurpt.BackColor = Color.Transparent;
             ptb_interurpt.Cursor = Cursors.Hand;
             ptb_interurpt.Image = (Image)resources.GetObject("ptb_interurpt.Image");
-            ptb_interurpt.Location = new Point(554, 605);
+            ptb_interurpt.Location = new Point(954, 604);
             ptb_interurpt.Name = "ptb_interurpt";
             ptb_interurpt.Size = new Size(75, 54);
             ptb_interurpt.SizeMode = PictureBoxSizeMode.Zoom;
@@ -87,7 +87,7 @@
             ptb_controlMic.BackColor = Color.Transparent;
             ptb_controlMic.Cursor = Cursors.Hand;
             ptb_controlMic.Image = (Image)resources.GetObject("ptb_controlMic.Image");
-            ptb_controlMic.Location = new Point(557, 515);
+            ptb_controlMic.Location = new Point(957, 514);
             ptb_controlMic.Name = "ptb_controlMic";
             ptb_controlMic.Size = new Size(72, 66);
             ptb_controlMic.SizeMode = PictureBoxSizeMode.Zoom;
@@ -100,7 +100,7 @@
             ptb_controlCam.BackColor = Color.Transparent;
             ptb_controlCam.Cursor = Cursors.Hand;
             ptb_controlCam.Image = (Image)resources.GetObject("ptb_controlCam.Image");
-            ptb_controlCam.Location = new Point(554, 678);
+            ptb_controlCam.Location = new Point(954, 677);
             ptb_controlCam.Name = "ptb_controlCam";
             ptb_controlCam.Size = new Size(75, 63);
             ptb_controlCam.SizeMode = PictureBoxSizeMode.Zoom;
@@ -114,16 +114,16 @@
             menuStrip1.Items.AddRange(new ToolStripItem[] { chọnCameraToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(656, 28);
+            menuStrip1.Size = new Size(1041, 28);
             menuStrip1.TabIndex = 26;
             menuStrip1.Text = "menuStrip1";
             // 
             // chọnCameraToolStripMenuItem
             // 
             chọnCameraToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { cb_optionCam });
-            chọnCameraToolStripMenuItem.Font = new Font("SF Mono", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            chọnCameraToolStripMenuItem.Font = new Font("Microsoft Sans Serif", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             chọnCameraToolStripMenuItem.Name = "chọnCameraToolStripMenuItem";
-            chọnCameraToolStripMenuItem.Size = new Size(144, 24);
+            chọnCameraToolStripMenuItem.Size = new Size(126, 24);
             chọnCameraToolStripMenuItem.Text = "Chọn Camera";
             // 
             // cb_optionCam
@@ -138,20 +138,21 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(656, 752);
+            ClientSize = new Size(1041, 752);
             Controls.Add(ptb_controlCam);
             Controls.Add(ptb_controlMic);
             Controls.Add(ptb_interurpt);
-            Controls.Add(ptb_otherCall);
             Controls.Add(ptb_mainCall);
+            Controls.Add(ptb_otherCall);
             Controls.Add(menuStrip1);
             Icon = (Icon)resources.GetObject("$this.Icon");
             MainMenuStrip = menuStrip1;
+            MaximumSize = new Size(1059, 799);
             MinimumSize = new Size(561, 799);
             Name = "CallVideo";
             Text = "Video Call";
-            ((System.ComponentModel.ISupportInitialize)ptb_mainCall).EndInit();
             ((System.ComponentModel.ISupportInitialize)ptb_otherCall).EndInit();
+            ((System.ComponentModel.ISupportInitialize)ptb_mainCall).EndInit();
             ((System.ComponentModel.ISupportInitialize)ptb_interurpt).EndInit();
             ((System.ComponentModel.ISupportInitialize)ptb_controlMic).EndInit();
             ((System.ComponentModel.ISupportInitialize)ptb_controlCam).EndInit();
@@ -163,8 +164,8 @@
 
         #endregion
 
-        private PictureBox ptb_mainCall;
         private PictureBox ptb_otherCall;
+        private PictureBox ptb_mainCall;
         private PictureBox ptb_interurpt;
         private PictureBox ptb_controlMic;
         private PictureBox ptb_controlCam;

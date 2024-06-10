@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="ptb_mainCall.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="ptb_otherCall.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAeAAAADGCAYAAAAKVlMKAAAABGdBTUEAALGPC/xhBQAAONBJREFUeF7t
         nQn8V8P+/y1Z7mK5aF/ciGiXytaiRBHXpZIiIsqSpHQV2UVC0mInu7J0ZalsKaFskWzd7Nu1XOu1S/1f
@@ -366,7 +366,7 @@
         GGOMMcYYY4wx5v9XVlvt/wEw62BAm+xDCgAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="ptb_otherCall.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="ptb_mainCall.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAeAAAADGCAYAAAAKVlMKAAAABGdBTUEAALGPC/xhBQAAONBJREFUeF7t
         nQn8V8P+/y1Z7mK5aF/ciGiXytaiRBHXpZIiIsqSpHQV2UVC0mInu7J0ZalsKaFskWzd7Nu1XOu1S/1f

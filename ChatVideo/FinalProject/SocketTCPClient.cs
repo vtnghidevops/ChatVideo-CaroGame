@@ -35,8 +35,8 @@ namespace FinalProject
 
 
                 // Set receive and send timeouts
-                tcpClient.ReceiveTimeout = 600000; // 60 seconds
-                tcpClient.SendTimeout = 600000; // 60 seconds
+                tcpClient.ReceiveTimeout = 6000000; // 10p
+                tcpClient.SendTimeout = 6000000; 
 
 
                 stream = tcpClient.GetStream();

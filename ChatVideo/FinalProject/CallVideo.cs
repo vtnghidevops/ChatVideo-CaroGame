@@ -100,8 +100,8 @@ namespace FinalProject
                 defaultCamera.SignalToStop();
             }
             defaultCamera = new VideoCaptureDevice(cameras[cb_optionCam.SelectedIndex].MonikerString);
-            defaultCamera.NewFrame += Cam_NewFrame;
             defaultCamera.Start();
+            defaultCamera.NewFrame += Cam_NewFrame;
 
             MessageBox.Show("Cam đã được bật", "Thành công", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
@@ -115,7 +115,7 @@ namespace FinalProject
             if(!isCall)
             {
                 ptb_controlCam.Image = null;
-                ptb_otherCall.Image = null;
+                ptb_mainCall.Image = null;
             }
             EndPoint localEndPoint = new IPEndPoint(isServer ? ipAddress : IPAddress.Parse(ipClientConnected), isServer ? portCamServer : portCamClient);
             listenerCam = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
@@ -134,7 +134,7 @@ namespace FinalProject
                         if (token.IsCancellationRequested)
                             break;
 
-                        byte[] buffer = new byte[1024 * 50];
+                        byte[] buffer = new byte[1024 * 500];
                         EndPoint remoteEndPoint = new IPEndPoint(IPAddress.Any, 0);
 
                         try
@@ -150,6 +150,7 @@ namespace FinalProject
 
                                 // Thay đổi kích thước của Bitmap
                                 //Bitmap resizedBitmap = ResizeOptimized(originalBitmap, 500, 800);
+                                // Bitmap resizedBitmapForDisplay = new Bitmap(originalBitmap, new Size(1000, 800)); // Resize lại trên server
 
 
                                 if (ptb_otherCall != null && !ptb_mainCall.IsDisposed)
@@ -160,7 +161,8 @@ namespace FinalProject
                                 {
                                     MessageBox.Show("Error other cam");
                                 }
-                                
+
+
                             }
                             else if (bytesReceived == 0)
                             {
@@ -201,8 +203,10 @@ namespace FinalProject
             Bitmap bitmap = (Bitmap)eventArgs.Frame.Clone();
             //Bitmap dataFramePicServer = new Bitmap(bitmap, new Size(750, 800));
             //Bitmap dataFramePicClient = new Bitmap(bitmap, new Size(250, 200));
-            Bitmap dataFramePicServer = new Bitmap(bitmap, new Size(250, 200));
-            Bitmap dataFramePicClient = new Bitmap(bitmap, new Size(750, 800));
+            Bitmap dataFramePicClient = new Bitmap(bitmap, new Size(256, 200));
+            Bitmap dataFramePicServer = new Bitmap(bitmap, new Size(1000, 800));
+            //Bitmap dataFramePicServer = new Bitmap(bitmap, new Size(50, 50));
+
 
             ptb_mainCall.Image = dataFramePicClient;
             byte[] byteArray = ConvertToJpeg(dataFramePicServer);
@@ -212,16 +216,23 @@ namespace FinalProject
 
         }
 
-        private byte[] ConvertToJpeg(Bitmap frame)
+        //private byte[] ConvertToJpeg(Bitmap frame)
+        //{
+        //    using (var ms = new MemoryStream())
+        //    {
+        //        frame.Save(ms, ImageFormat.Jpeg);
+        //        return ms.ToArray();
+        //    }
+
+        //}
+        private byte[] ConvertToJpeg(Bitmap bitmap)
         {
-            using (var ms = new MemoryStream())
+            using (MemoryStream ms = new MemoryStream())
             {
-                frame.Save(ms, ImageFormat.Jpeg);
+                bitmap.Save(ms, System.Drawing.Imaging.ImageFormat.Jpeg);
                 return ms.ToArray();
             }
-
         }
-
 
 
 
@@ -257,7 +268,7 @@ namespace FinalProject
             else
             {
                 // Cập nhật PictureBox
-                ptb_otherCall.Image = bitmap;
+                ptb_mainCall.Image = bitmap;
             }
         }
 
@@ -310,8 +321,8 @@ namespace FinalProject
             {
                 // Dừng camera hiện tại
                 defaultCamera.SignalToStop();
-                ptb_otherCall.Image = LoadImageFromImgFolder("wait-removebg-preview.png");
-                ptb_otherCall.SizeMode = PictureBoxSizeMode.Zoom;
+                ptb_mainCall.Image = LoadImageFromImgFolder("wait-removebg-preview.png");
+                ptb_mainCall.SizeMode = PictureBoxSizeMode.Zoom;
 
 
 
@@ -551,6 +562,7 @@ namespace FinalProject
             {
                 isCall = false;
                 //checkListener = false;
+                
                 StopListening();
                 this.Close();
             }
